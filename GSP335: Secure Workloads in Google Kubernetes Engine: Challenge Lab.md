@@ -2,8 +2,6 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Follow on Twitter @techiezilla , Instagram @techiezilla.
-
 
 ### Task - 0 : Download the necessary files :-
 
